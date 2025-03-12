@@ -36,8 +36,8 @@ Before setting up this project, ensure the following dependencies are installed:
 
 ### 1. Clone the repository
 ```
-git clone https://github.com/bitman/metaplex-core-nft-staking.git
-cd metaplex-core-nft-staking
+git clone https://github.com/sharp0904/Metaplex-nft-staking.git
+cd Metaplex-nft-staking
 ```
 
 ### 2. Build the Solana Program
